@@ -44,4 +44,4 @@ void print_times_table(int n)
 			_putchar('\n');
 		}
 	}
-sh: 1: q: not found
+}
